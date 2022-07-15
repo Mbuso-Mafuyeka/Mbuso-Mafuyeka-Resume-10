@@ -58,7 +58,8 @@ body, ul, li, p, a, label, input, div {
 }
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
-.bg-black {
+.bg-img { background-image: url("../img/bg.webp");}
+
     background-color: #FFFFFF !important;
 }
 .bg-success { background-color: #59ab6e !important;}
